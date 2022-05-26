@@ -1,1 +1,1 @@
-A description of the repository
+A description of the script
